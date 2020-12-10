@@ -14,7 +14,7 @@ __Siberian State Aerospace University__<br>
 _Bachelor of Computer Science (BCompSc), Computer science_<br>
 </details>
 
-<details><summary>📫 How to hire me</summary>
+<details><summary>📫 How To Hire Me</summary>
 I'm working on Upwork: https://www.upwork.com/freelancers/~01e59297900f2b4845
 </details>
 
