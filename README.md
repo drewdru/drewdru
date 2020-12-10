@@ -23,7 +23,7 @@ I'm working on Upwork: https://www.upwork.com/freelancers/~01e59297900f2b4845
 | | |
 |-|-|
 |__Operating Systems__ | Linux, Windows |
-|__Development languages__| Python, JS/TS, Qt/C++/QML, C#, Go |
+|__Development languages__| Python, JS/TS, Qt/C++/QML, C, C#, Go |
 |__Frameworks__ | FastAPI, Django/DRF, Flask, Angular, Vue.js, Node.js, jQuery |
 |__DBMS__ | PostgreSQL, MongeDB, MySQL, SQLite, Redis, RabbitMQ |
 |__Others__ | Celery, Docker, Nginx, Git |
