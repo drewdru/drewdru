@@ -93,8 +93,8 @@ __Software Engineer | Aigeo__ <br>
 
 - Developed a web application [Aigeo References](http://references.aigeo.ru/) to display regional data.
 - Developed a web application [Aigeo References Map](http://references-map.aigeo.ru/) to display regional data on the map.
-- Developed a web application [Medical Areas](http://map.med-monitor.ru/)([mirror](http://meduch2.aigeo.ru/))
-- Integrated the [Medical Areas](http://map.med-monitor.ru/) as module of web app [Med-monitor](http://med-monitor.ru/)([mirror](http://med-monitor.aigeo.ru))
+- Developed a web application [Medical Areas](http://map.med-monitor.ru/)([mirror](http://meduch2.aigeo.ru/)).
+- Integrated the [Medical Areas](http://map.med-monitor.ru/) as module of web app [Med-monitor](http://med-monitor.ru/)([mirror](http://med-monitor.aigeo.ru)).
 - Developed a service [Normalizer](http://api.aigeo.ru/pages/normalizer) for normalizing the address.
 - Setuped and extended [Geonode](https://github.com/capooti/geonode) for [Aigeo servieces](https://git.aigeo.ru/aigeo/geonode). Added loading data from third-party __CSW__ servers with dynamic MGUID, extended API, fixed minor bugs.
 </details>
