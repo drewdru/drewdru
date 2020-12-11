@@ -1,7 +1,7 @@
 ### Hi there 👋
 ☺️ My name is Andrew and I'm a Software Engineer. I have more than 4 years of experience in Web Development as Full Stack.<br>
 🤩 As Front-end Web Developer I prefer to use JavaScript(Vue.js, Angular, Node.js, jQuery), HTML, CSS(Less, Bootstrap/Material).<br>
-🧑‍💻 As Back-end Web Developer I prefer to use Python(FastApi, Django/DRF, Flask, SQLAlchemy), SQL(PostgreSQL, MongeDB), Nginx, Docker, Celery, Redis.<br>
+🧑‍💻 As Back-end Web Developer I prefer to use Python(FastApi, Django/DRF, Flask, SQLAlchemy), SQL(PostgreSQL, MongoDB), Nginx, Docker, Celery, Redis.<br>
 🤓 I like to grow my professional skills and learn something new.<br>
 <details><summary>🔬 Master of Computer Science</summary>
 
@@ -25,7 +25,7 @@ I'm working on Upwork: https://www.upwork.com/freelancers/~01e59297900f2b4845
 |__Operating Systems__ | Linux, Windows |
 |__Development languages__| Python, JS/TS, Qt/C++/QML, C, C#, Go |
 |__Frameworks__ | FastAPI, Django/DRF, Flask, Angular, Vue.js, Node.js, jQuery |
-|__DBMS__ | PostgreSQL, MongeDB, MySQL, SQLite, Redis, RabbitMQ |
+|__DBMS__ | PostgreSQL, MongoDB, MySQL, SQLite, Redis, RabbitMQ |
 |__Others__ | Celery, Docker, Nginx, Git |
 </details>
 
