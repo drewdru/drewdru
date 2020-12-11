@@ -15,7 +15,7 @@ _Bachelor of Computer Science (BCompSc), Computer science_ <br>
 </details>
 
 <details><summary>📫 How To Hire Me</summary>
-I'm working on Upwork: https://www.upwork.com/freelancers/~01e59297900f2b4845
+I'm working on Upwork ([My Account here](https://www.upwork.com/freelancers/~01e59297900f2b4845))
 </details>
 
 <details><summary>⚡ My Skills</summary>
@@ -33,8 +33,8 @@ I'm working on Upwork: https://www.upwork.com/freelancers/~01e59297900f2b4845
 <details><summary>🔬 My Experience</summary>
 
 ### July 2020 - to date
-__Full-stack Developer | YLab Development__ <br>
-🔗 https://ylab.io/ <br>
+__Freelance | Upwork__ <br>
+🔗 [My Account on Upwork](https://www.upwork.com/freelancers/~01e59297900f2b4845/) <br>
 ⚡ _Skills: Python(Tornado, FastAPI), Vue.js, WebRTC_ <br>
 <details><summary>🛠 Description</summary>
 
