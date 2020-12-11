@@ -99,7 +99,7 @@ __Software Engineer | Aigeo__ <br>
 - Setuped and extended [Geonode](https://github.com/capooti/geonode) for [Aigeo servieces](https://git.aigeo.ru/aigeo/geonode). Added loading data from third-party __CSW__ servers with dynamic MGUID, extended API, fixed minor bugs.
 </details>
 
-### July 2016 - August 2016
+### July 2015 - August 2015
 __Junior Web Developer | Alpateks__ <br>
 🔗 http://alpateks.ru/ <br>
 ⚡ _Skills: Python(Django, Grab), PostgreSQL, Bash_ <br>
