@@ -68,7 +68,7 @@ __Full-stack Developer | YLab Development__ <br>
    - Implemented Email Delivery Service __SendGrid__.
    - Integrated API __Bpilot__  for contract specification.
 2. [B2B-export](https://b2b-export.com/en/)
-   - Implemented a form for selecting product categories with a hierarchy.
+   - Developed a form for selecting product categories with a hierarchy.
    - Fixed the layout of the site and letters.
    - Configured database migrations.
    - Fixed bugs in bulk import of goods and translation of text via __ABBY__ service.
