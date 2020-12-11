@@ -30,7 +30,19 @@ I'm working on Upwork: https://www.upwork.com/freelancers/~01e59297900f2b4845
 </details>
 
 
-<details><summary>🔬 Experience</summary>
+<details><summary>🔬 My Experience</summary>
+
+### July 2020 - to date
+__Full-stack Developer | YLab Development__ <br>
+🔗 https://ylab.io/ <br>
+⚡ _Skills: Python(Django/Flask), GoLang, AngularJS, Vue.js, PostgreSql, Redis, Celery, Docker_ <br>
+<details><summary>🛠 Description</summary>
+
+- Marked up layouts of the Admin panel pages for managing the video surveillance system.
+- Developed an API for a website security analysis system.
+
+</details>
+
 
 ### August 2018 - October 2020
 __Full-stack Developer | YLab Development__ <br>
@@ -39,8 +51,41 @@ __Full-stack Developer | YLab Development__ <br>
 <details><summary>🛠 Description</summary>
 
 1. [ECN.Broker](https://ecn.broker/en/)
-   - Redesigned Esplanade(https://esplanade-ms.com/en/) to [ECN.Broker](https://ecn.broker/en/)
-   - Redesigned
+   - Redesigned [Esplanade MS](https://esplanade-ms.com/en/) to [ECN.Broker](https://ecn.broker/en/).
+   - Changed the layout of the User Account pages and added new functionality, expanded the site's API.
+   - Expanded the functionality of the admin panel, differentiated user rights.
+   - Implemented API __MetaTrader 4__. 
+   - Implemented notification to __Telegram__ bot about user actions. 
+   - Configured DB migrations and DB backups. 
+   - Configured __Docker__ containers.
+   - Edited __WordPress__ landing pages.
+   - Implemented __RBK.money__, __Accentpay__ and __Interkassa__ payment systems.
+   - Set up a referral program.
+   - Added WYSIWYG __Quill__ editor for news.
+   - Integrated API __Claws & Horns__, marked up pages for customer training, displayed data on __google visualization__ charts.
+   - Displayed the exchange rate via the API __IndigoSoft__.
+   - Developed forex calculators.
+   - Implemented __RAMM__ for copy trading.
+   - Implemented Email Delivery Service __SendGrid__.
+   - Integrated API __Bpilot__  for contract specification.
+2. [B2B-export](https://b2b-export.com/en/)
+   - Implemented a form for selecting product categories with a hierarchy.
+   - Fixed the layout of the site and letters.
+   - Configured database migrations.
+   - Fixed bugs in bulk import of goods and translation of text via __ABBY__ service.
+3. [Carreta](https://carreta.ru/)
+   - Implemented loading of prices from CSV/XLS files.
+4. [TeachLearnLanguages](https://teachlearnlanguages.com/en/)
+   - Implemented the definition of the user's country through API __ipstack__.
+   - Fixed loading images to __S3Storage__.
+   - Implemented import prices.
+   - Expanded the functionality of the __Django__ admin panel.
+5. __Internal and other projects__
+   - Implemented crawling sites for analyzing product prices (__scrapy__ + __selenium__).
+   - Developed a system for aggregating CSV/XLS reports, set up validation of files and user data, implemented text field recoding, distribution of reports in __Clickhouse__ + __MSSql__.
+   - Developed systems for recognizing applications from images (__TensorFlow__)
+
+
 </details>
 
 ### September 2016 - February 2018
@@ -54,7 +99,7 @@ __Software Engineer | Aigeo__ <br>
 - Developed a web application [Medical Areas](http://map.med-monitor.ru/)([mirror](http://meduch2.aigeo.ru/))
 - Integrated the [Medical Areas](http://map.med-monitor.ru/) as module of web app [Med-monitor](http://med-monitor.ru/)([mirror](http://med-monitor.aigeo.ru))
 - Developed a service [Normalizer](http://api.aigeo.ru/pages/normalizer) for normalizing the address.
-- Setuped and extended [Geonode](https://github.com/capooti/geonode) for [Aigeo servieces](https://git.aigeo.ru/aigeo/geonode). Added loading data from third-party CSW servers with dynamic MGUID, extended API, fixed minor bugs.
+- Setuped and extended [Geonode](https://github.com/capooti/geonode) for [Aigeo servieces](https://git.aigeo.ru/aigeo/geonode). Added loading data from third-party __CSW__ servers with dynamic MGUID, extended API, fixed minor bugs.
 </details>
 
 ### July 2016 - August 2016
