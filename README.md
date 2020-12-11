@@ -18,7 +18,7 @@ _Bachelor of Computer Science (BCompSc), Computer science_<br>
 I'm working on Upwork: https://www.upwork.com/freelancers/~01e59297900f2b4845
 </details>
 
-<details><summary>⚡ Skills List</summary>
+<details><summary>⚡ My Skills</summary>
 
 | | |
 |-|-|
