@@ -35,12 +35,11 @@ I'm working on Upwork: https://www.upwork.com/freelancers/~01e59297900f2b4845
 ### July 2020 - to date
 __Full-stack Developer | YLab Development__ <br>
 🔗 https://ylab.io/ <br>
-⚡ _Skills: Python(Django/Flask), GoLang, AngularJS, Vue.js, PostgreSql, Redis, Celery, Docker_ <br>
+⚡ _Skills: Python(Tornado, FastAPI), Vue.js, WebRTC_ <br>
 <details><summary>🛠 Description</summary>
 
 - Marked up layouts of the Admin panel pages for managing the video surveillance system.
 - Developed an API for a website security analysis system.
-
 </details>
 
 
@@ -84,8 +83,6 @@ __Full-stack Developer | YLab Development__ <br>
    - Implemented crawling sites for analyzing product prices (__scrapy__ + __selenium__).
    - Developed a system for aggregating CSV/XLS reports, set up validation of files and user data, implemented text field recoding, distribution of reports in __Clickhouse__ + __MSSql__.
    - Developed systems for recognizing applications from images (__TensorFlow__)
-
-
 </details>
 
 ### September 2016 - February 2018
@@ -114,5 +111,6 @@ __Junior Web Developer | Alpateks__ <br>
 - Fixed mark up.
 - Сonfigured database backup.
 </details>
+
 </details>
 
