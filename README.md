@@ -46,7 +46,7 @@ __Full-stack Developer | Freelance__ <br>
 ### August 2018 - October 2020
 __Full-stack Developer | YLab Development__ <br>
 🔗 https://ylab.io/ <br>
-⚡ _Skills: Python(Django/Flask), GoLang, AngularJS, Vue.js, PostgreSql, Redis, Celery, Docker_ <br>
+⚡ _Skills: Python(Django/DRF, Flask), Go, AngularJS, Vuejs, PostgreSql, Redis, Celery, Docker_ <br>
 <details><summary>🛠 Description</summary>
 
 1. [ECN.Broker](https://ecn.broker/en/)
