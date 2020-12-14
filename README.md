@@ -15,7 +15,8 @@ _Bachelor of Computer Science (BCompSc), Computer science_ <br>
 </details>
 
 <details><summary>📫 How To Hire Me</summary>
-I'm working on Upwork ([My Account here](https://www.upwork.com/freelancers/~01e59297900f2b4845))
+   
+I'm working on Upwork. [My Account on Upwork](https://www.upwork.com/freelancers/~01e59297900f2b4845/)
 </details>
 
 <details><summary>⚡ My Skills</summary>
@@ -38,7 +39,7 @@ __Full-stack Developer | Freelance__ <br>
 ⚡ _Skills: Python(Tornado, FastAPI), Vue.js, WebRTC_ <br>
 <details><summary>🛠 Description</summary>
 
-- Marked up layouts of the Admin panel pages for managing the video surveillance system.
+- Marked up layouts of an Admin panel pages for managing the video surveillance system.
 - Developed an API for a website security analysis system.
 </details>
 
