@@ -3,7 +3,7 @@
 🤩 As Front-end Web Developer I prefer to use JavaScript(Vue.js, Angular, Node.js, jQuery), HTML, CSS(Less, Bootstrap/Material). <br>
 🧑‍💻 As Back-end Web Developer I prefer to use Python(FastApi, Django/DRF, Flask, SQLAlchemy), SQL(PostgreSQL, MongoDB), Nginx, Docker, Celery, Redis. <br>
 🤓 I like to grow my professional skills and learn something new. <br>
-<details><summary>🎓 Master of Computer Science</summary>
+<details><summary>🎓 I'm a Master of Computer Science</summary>
 
 ### 2016-2018
 __Siberian State Aerospace University__ <br>
