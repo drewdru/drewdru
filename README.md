@@ -7,11 +7,15 @@
 
 ### 2016-2018
 __Siberian State Aerospace University__ <br>
-_Master of Computer Applications (MCA), Computer science_ <br>
+_Master of Computer Science (MSCS), Computer science_ <br>
+Faculty: Information and Telecommunications <br>
+Specialty: Artificial Intelligence <br>
 
 ### 2012-2016
 __Siberian State Aerospace University__ <br>
 _Bachelor of Computer Science (BCompSc), Computer science_ <br>
+Faculty: Information and Telecommunications <br>
+Specialty: Software Engineering <br>
 </details>
 
 <details><summary>📫 How To Hire Me</summary>
