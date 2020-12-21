@@ -66,12 +66,12 @@ __Full-stack Developer | YLab Development__ <br>
    - Implemented __RBK.money__, __Accentpay__ and __Interkassa__ payment systems.
    - Set up a referral program.
    - Added WYSIWYG __Quill__ editor for news.
-   - Integrated API __Claws & Horns__, marked up pages for customer training, displayed data on __google visualization__ charts.
+   - Implemented API __Claws & Horns__, marked up pages for customer training, displayed data on __google visualization__ charts.
    - Displayed the exchange rate via the API __IndigoSoft__.
    - Developed forex calculators.
    - Implemented __RAMM__ for copy trading.
    - Implemented Email Delivery Service __SendGrid__.
-   - Integrated API __Bpilot__  for contract specification.
+   - Implemented API __Bpilot__  for contract specification.
 2. [B2B-export](https://b2b-export.com/en/)
    - Developed a form for selecting product categories with a hierarchy.
    - Fixed the layout of the site and letters.
