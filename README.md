@@ -29,7 +29,7 @@ I'm working on Upwork. [My Account on Upwork](https://www.upwork.com/freelancers
 |-|-|
 |__Operating Systems__ | Linux, Windows |
 |__Development languages__| Python, JS/TS, Qt/C++/QML, C, C#, Go |
-|__Frameworks__ | FastAPI, Django/DRF, Flask, Angular, Vue.js, Node.js, jQuery |
+|__Frameworks__ | FastAPI, Django/DRF, Flask, Vue.js(Vuetify, Nuxt), React(Next.js), Node.js, AngularJs, jQuery |
 |__DBMS__ | PostgreSQL, MongoDB, MySQL, SQLite, Redis, RabbitMQ |
 |__Others__ | Celery, Docker, Nginx, Git |
 </details>
