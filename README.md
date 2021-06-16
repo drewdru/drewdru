@@ -40,13 +40,37 @@ I'm working on Upwork. [My Account on Upwork](https://www.upwork.com/freelancers
 ### July 2020 - to date
 __Full-stack Developer | Freelance__ <br>
 🔗 [My Account on Upwork](https://www.upwork.com/freelancers/~01e59297900f2b4845/) <br>
-⚡ _Skills: Python(Tornado, FastAPI), Vue.js, WebRTC_ <br>
+⚡ _Skills: Python(Tornado, FastAPI, Django), Angular, Vue.js, AWS (Amplify, Lambda, DynamoDB, Cognito), GraphQL, WebRTC_ <br>
 <details><summary>🛠 Description</summary>
 
-- Marked up layouts of an Admin panel pages for managing the video surveillance system.
-- Developed an API for a website security analysis system.
+#### April 2021 – June 2021: Participated in the development of MVP of freight transportation
+⚡ _Skills: _Angular, AWS (Amplify, Lambda, DynamoDB, Cognito), GraphQL_
+   -  Implemented authorization through Cognito.
+   -  Added geocoding via here.com and displayed data on a map.
+   -  Marked up company pages and implemented data from DynamoDB.
+      
+#### February 2021 – April  2021: Participated in the I-EXP project (https://i-exp.ru/)
+⚡ _Skills: _NodeJS, RabbitMQ_
+   -  Developed an API for user authorization.
+   -  Added Telegram bot to notify about user actions.
+   -  Implemented RabbitMQ.
+   -  Divided the mono-repository into microservices.
+   -  Added looks generation for large clothes.
+   -  Added pHash calculation.
+   -  Added search for similar images.
+   -  Added data generation methods for neural network training.
+   
+#### November 2020 – December 2020
+⚡ _Skills: _FastAPI, SqlAlchemy 1.4.0b1_
+   -  Developed an API for a website security analysis system.
+   
+#### July 2020 – September 2020
+⚡ _Skills: _Vue.js, Python(Tornado)_
+   -  Marked up layouts of the Admin panel pages for managing the video surveillance system.
+
 </details>
 
+---------------------------------------
 
 ### August 2018 - October 2020
 __Full-stack Developer | YLab Development__ <br>
@@ -89,7 +113,9 @@ __Full-stack Developer | YLab Development__ <br>
    - Developed a system for aggregating CSV/XLS reports, set up validation of files and user data, implemented text field recoding, distribution of reports in __Clickhouse__ + __MSSql__.
    - Developed systems for recognizing applications from images (__TensorFlow__)
 </details>
-
+   
+---------------------------------------
+   
 ### September 2016 - February 2018
 __Software Engineer | Aigeo__ <br>
 🔗 http://aigeo.ru/ <br>
@@ -103,7 +129,9 @@ __Software Engineer | Aigeo__ <br>
 - Developed a service [Normalizer](http://api.aigeo.ru/pages/normalizer) for normalizing the address.
 - Setuped and extended [Geonode](https://github.com/capooti/geonode) for [Aigeo servieces](https://git.aigeo.ru/aigeo/geonode). Added loading data from third-party __CSW__ servers with dynamic MGUID, extended API, fixed minor bugs.
 </details>
-
+   
+---------------------------------------
+   
 ### July 2015 - August 2015
 __Junior Web Developer | Alpateks__ <br>
 🔗 http://alpateks.ru/ <br>
