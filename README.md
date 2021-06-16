@@ -44,13 +44,13 @@ __Full-stack Developer | Freelance__ <br>
 <details><summary>🛠 Description</summary>
 
 #### April 2021 – June 2021: Participated in the development of MVP of freight transportation
-⚡ _Skills: _Angular, AWS (Amplify, Lambda, DynamoDB, Cognito), GraphQL_
+⚡ _Skills: Angular, AWS (Amplify, Lambda, DynamoDB, Cognito), GraphQL_
    -  Implemented authorization through Cognito.
    -  Added geocoding via here.com and displayed data on a map.
    -  Marked up company pages and implemented data from DynamoDB.
       
 #### February 2021 – April  2021: Participated in the I-EXP project (https://i-exp.ru/)
-⚡ _Skills: _NodeJS, RabbitMQ_
+⚡ _Skills: NodeJS, RabbitMQ_
    -  Developed an API for user authorization.
    -  Added Telegram bot to notify about user actions.
    -  Implemented RabbitMQ.
@@ -61,11 +61,11 @@ __Full-stack Developer | Freelance__ <br>
    -  Added data generation methods for neural network training.
    
 #### November 2020 – December 2020
-⚡ _Skills: _FastAPI, SqlAlchemy 1.4.0b1_
+⚡ _Skills: FastAPI, SqlAlchemy 1.4.0b1_
    -  Developed an API for a website security analysis system.
    
 #### July 2020 – September 2020
-⚡ _Skills: _Vue.js, Python(Tornado)_
+⚡ _Skills: Vue.js, Python(Tornado)_
    -  Marked up layouts of the Admin panel pages for managing the video surveillance system.
 
 </details>
