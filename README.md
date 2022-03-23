@@ -20,7 +20,10 @@ Specialty: Software Engineering <br>
 
 <details><summary>📫 How To Hire Me</summary>
    
-I'm working on Upwork. [My Account on Upwork](https://www.upwork.com/freelancers/~01e59297900f2b4845/)
+- drew.drux@gmail.com
+- [Telegram](https://t.me/DrewDru)
+- [Upwork](https://www.upwork.com/freelancers/~01e59297900f2b4845/)
+- [LinkedIn](https://www.linkedin.com/in/andrew-ovsyannikov-b97479169/)
 </details>
 
 <details><summary>⚡ My Skills</summary>
