@@ -32,20 +32,52 @@ Specialty: Software Engineering <br>
 |-|-|
 |__Operating Systems__ | Linux, Windows |
 |__Development languages__| Python, JS/TS, C#, Go |
-|__Frameworks__ | Python(FastAPI, Django/DRF, Flask), Node(Express, Nest), Vue/Nuxt, React, Angular |
-|__DBMS__ | PostgreSQL, MongoDB, MySQL, Redis, RabbitMQ, DynamoDB |
-|__Others__ | Celery, Docker, Nginx, Git, Google Cloud Functions, AWS(Amplify, Lambda, S3, Cognito),  WebRTC. |
+|__Frameworks__ | Node(Express, Nest, Prisma, TypeORM), Vue/Nuxt, React, Angular, Python(FastAPI, Django/DRF, Flask, SqlAlchemy) |
+|__DBMS__ | PostgreSQL, MongoDB, MySQL, Redis, RabbitMQ, Kafka, DynamoDB |
+|__Others__ | Celery, Docker, Nginx, Git, Google Cloud Platform, AWS(Amplify, Lambda, S3, Cognito), WebRTC, SocketIO |
 </details>
 
 
 <details><summary>🔬 My Experience</summary>
 
+
+### November 2021 - to date
+__Full-stack Developer | UDev__ <br>
+🔗 https://udev.dev/ <br>
+⚡ _Skills: TS, Nodejs(NestJs, Prisma), Python(FastAPI, SqlAlchemy), SocketIO, React, PostgreSql, Docker, Kafka, MongoDB, GCP_ <br>
+<details><summary>🛠 Description</summary>
+
+- __Participated in development of:__ [Tumeke](https://www.tumeke.io/), music streaming service for smart speakers, online broadcasting and media information exchange service.
+- __Added:__ Alice's ability to play background music on smart speakers using NLP command processing; authentication API; selection of participants in stand-up rooms with the ability to reduce the wait time; project migration from Python to NodeJs; visualization of Ergonomic Posture Risk Assessment Calculation Results, raw SQL optimization.
+</details>
+   
+---------------------------------------
+
+### November 2021 - to date
+__Full-stack Developer | PonyLand__ <br>
+🔗 https://pony.land <br>
+⚡ _Skills: Vue.js, Nuxt.js, ASP.NET, ASP.NET MVC, Entity Framework, .NET Framework, Game Development, Unity, .NET Core, Apache Kafka, Minio, Node.js, C#, PostgreSQL, Redis_ <br>
+<details><summary>🛠 Description</summary>
+
+- __Participated in development of:__ [the MMORPG game Pony.Land](https://pony.land), music streaming service for smart speakers, online broadcasting and media information exchange service.
+- __Developed:__ Pony.Land website, SSO authorization and authentication logic, DDOS attack and botnet protection algorithms, GibberishClassification trash message classification, flood and spam protection algorithms with detection of similar messages from different users, NN to filter out profanity, threats and vulgarity, API for custom character textures.
+- __Implemented:__ Google recaptcha, hCaptcha, sendGrid for sending messages and validating email clients.
+</details>
+   
+---------------------------------------
+
 ### July 2020 - to date
 __Full-stack Developer | Freelance__ <br>
 🔗 [My Account on Upwork](https://www.upwork.com/freelancers/~01e59297900f2b4845/) <br>
-⚡ _Skills: NodeJS, Python(Flask, FastAPI, Tornado), SqlAlchemy, Vue.js, WebRTC, Angular, AWS(Amplify/Lambda/DynamoDB/Cognito), GraphQL, RabbitMQ, Docker._ <br>
+⚡ _Skills: Node(Nest, express), Python(Flask, FastAPI, Tornado), SqlAlchemy, Vue.js,Nuxt, Vuetify, React, WebRTC, Angular, AWS(Amplify/Lambda/DynamoDB/Cognito),GraphQL, RabbitMQ, Docker, C#(ASP.NET 6), PostgreSql, MongoDB, Minio, socketio,Keycloak_ <br>
 <details><summary>🛠 Description</summary>
 
+#### August 2022 - November 2022:
+   -  __Participated in development of:__ assessment system with gamification for
+company [Cibirlan](https://cibirlan.com/).
+   -  __Marked up layouts of:__ page for creating scheduled tournaments.
+   -  __Added:__ automatic filling of rooms; the logic of launching tournaments, assigning
+roles and teams; game chat.
 #### April 2022 – March 2022, July 2020 – September 2020:
    -  __Participated in development of:__  the video surveillance system.
    -  __Marked up layouts of:__ admin panel.
@@ -109,19 +141,6 @@ __Software Engineer | Aigeo__ <br>
 - __Developed a web application:__ [Aigeo References](http://references.aigeo.ru/); [Aigeo References Map](http://references-map.aigeo.ru/); [Medical Areas](http://map.med-monitor.ru/)([mirror](http://meduch2.aigeo.ru/)); [Normalizer](http://api.aigeo.ru/pages/normalizer) for normalizing the address.
 - __Added:__ [Medical Areas](http://map.med-monitor.ru/) as module to [Med-monitor](http://med-monitor.ru/)([mirror](http://med-monitor.aigeo.ru));
 - __Extended:__ [Geonode](https://github.com/capooti/geonode) API for [Aigeo servieces](https://git.aigeo.ru/aigeo/geonode).
-</details>
-   
----------------------------------------
-   
-### July 2015 - August 2015
-__Junior Web Developer | Alpateks__ <br>
-🔗 http://alpateks.ru/ <br>
-⚡ _Skills: Python(Django, Grab), PostgreSQL, Bash_ <br>
-
-<details><summary>🛠 Description</summary>
-
-- __Added:__ Bitrix24 API; crawler of industrial climbers; database backup.
-- __Marked up layouts of:__ landing page.
 </details>
 
 </details>
