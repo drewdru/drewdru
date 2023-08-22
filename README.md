@@ -33,7 +33,7 @@ Specialty: Software Engineering <br>
 |__Operating Systems__ | Linux, Windows |
 |__Development languages__| Python, JS/TS, C#, Go |
 |__Frameworks__ | Node(Express, Nest, Prisma, TypeORM), Vue/Nuxt, React, Angular, Python(FastAPI, Django/DRF, Flask, SqlAlchemy) |
-|__DBMS__ | PostgreSQL, MongoDB, MySQL, Redis, RabbitMQ, Kafka, DynamoDB |
+|__DBMS/MQTT/ORM__ | PostgreSQL, MongoDB, MySQL, Redis, RabbitMQ, Kafka, DynamoDB, Prisma, SQLAlchemy, TypeORM, Sequalize, DjangoORM |
 |__Others__ | Celery, Docker, Nginx, Git, Google Cloud Platform, AWS(Amplify, Lambda, S3, Cognito), WebRTC, SocketIO |
 </details>
 
