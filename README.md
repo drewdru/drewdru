@@ -24,6 +24,7 @@ Specialty: Software Engineering <br>
 - [Telegram](https://t.me/DrewDru)
 - [Upwork](https://www.upwork.com/freelancers/~01e59297900f2b4845/)
 - [LinkedIn](https://www.linkedin.com/in/andrew-ovsyannikov-b97479169/)
+- [CV Ovsyannikov A.K..pdf](https://github.com/drewdru/drewdru/files/12408042/CV.Ovsyannikov.A.K.pdf)
 </details>
 
 <details><summary>⚡ My Skills</summary>
