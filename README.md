@@ -1,5 +1,5 @@
 ## Hi there 👋
-☺️ My name is Andrew and I'm a Software Engineer. I have more than 5 years of experience in Full Stack Web Development. <br>
+☺️ My name is Andrew and I'm a Software Engineer. I have more than 6 years of experience in Full Stack Web Development. <br>
 🤩 As Front-end Web Developer I prefer to use JavaScrip(TypeScript, Vue, Angular, React). <br>
 🧑‍💻 As Back-end Web Developer I prefer to use Python(FastApi, Django/DRF, Flask, SQLAlchemy), Node(Express, Nest), SQL(PostgreSQL, MongoDB), Nginx, Docker, Celery, Redis. <br>
 🤓 I like to grow my professional skills and learn something new. <br>
