@@ -54,7 +54,7 @@ __Full-stack Developer | UDev__ <br>
    
 ---------------------------------------
 
-### November 2021 - to date
+### June 2020 - to date
 __Full-stack Developer | PonyLand__ <br>
 🔗 https://pony.land <br>
 ⚡ _Skills: Vue.js, Nuxt.js, ASP.NET, ASP.NET MVC, Entity Framework, .NET Framework, Game Development, Unity, .NET Core, Apache Kafka, Minio, Node.js, C#, PostgreSQL, Redis_ <br>
