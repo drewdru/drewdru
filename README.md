@@ -66,19 +66,6 @@ __Full-stack Developer | Altermeliora__ <br>
    
 ---------------------------------------
 
-### June 2020 - to date
-__Full-stack Developer | PonyLand__ <br>
-🔗 https://pony.land <br>
-⚡ _Skills: Vue.js, Nuxt.js, ASP.NET, ASP.NET MVC, Entity Framework, .NET Framework, Game Development, Unity, .NET Core, Apache Kafka, Minio, Node.js, C#, PostgreSQL, Redis_ <br>
-<details><summary>🛠 Description</summary>
-
-- __Participated in development of:__ [the MMORPG game Pony.Land](https://pony.land), music streaming service for smart speakers, online broadcasting and media information exchange service.
-- __Developed:__ Pony.Land website, SSO authorization and authentication logic, DDOS attack and botnet protection algorithms, GibberishClassification trash message classification, flood and spam protection algorithms with detection of similar messages from different users, NN to filter out profanity, threats and vulgarity, API for custom character textures.
-- __Implemented:__ Google recaptcha, hCaptcha, sendGrid for sending messages and validating email clients.
-</details>
-   
----------------------------------------
-
 ### July 2020 - to date
 __Full-stack Developer | Freelance__ <br>
 🔗 [My Account on Upwork](https://www.upwork.com/freelancers/~01e59297900f2b4845/) <br>
@@ -107,6 +94,19 @@ roles and teams; game chat.
 
 </details>
 
+---------------------------------------
+
+### June 2020 - to date
+__Full-stack Developer | PonyLand__ <br>
+🔗 https://pony.land <br>
+⚡ _Skills: Vue.js, Nuxt.js, ASP.NET, ASP.NET MVC, Entity Framework, .NET Framework, Game Development, Unity, .NET Core, Apache Kafka, Minio, Node.js, C#, PostgreSQL, Redis_ <br>
+<details><summary>🛠 Description</summary>
+
+- __Participated in development of:__ [the MMORPG game Pony.Land](https://pony.land), music streaming service for smart speakers, online broadcasting and media information exchange service.
+- __Developed:__ Pony.Land website, SSO authorization and authentication logic, DDOS attack and botnet protection algorithms, GibberishClassification trash message classification, flood and spam protection algorithms with detection of similar messages from different users, NN to filter out profanity, threats and vulgarity, API for custom character textures.
+- __Implemented:__ Google recaptcha, hCaptcha, sendGrid for sending messages and validating email clients.
+</details>
+   
 ---------------------------------------
 
 ### August 2018 - October 2020
