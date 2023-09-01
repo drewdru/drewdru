@@ -42,7 +42,7 @@ Specialty: Software Engineering <br>
 <details><summary>🔬 My Experience</summary>
 
 
-### November 2021 - to date
+### November 2022 - to date
 __Full-stack Developer | UDev__ <br>
 🔗 https://udev.dev/ <br>
 ⚡ _Skills: TS, Nodejs(NestJs, Prisma), Python(FastAPI, SqlAlchemy), SocketIO, React, PostgreSql, Docker, Kafka, MongoDB, GCP_ <br>
@@ -50,6 +50,18 @@ __Full-stack Developer | UDev__ <br>
 
 - __Participated in development of:__ [Tumeke](https://www.tumeke.io/), music streaming service for smart speakers, online broadcasting and media information exchange service.
 - __Added:__ Alice's ability to play background music on smart speakers using NLP command processing; authentication API; selection of participants in stand-up rooms with the ability to reduce the wait time; project migration from Python to NodeJs; visualization of Ergonomic Posture Risk Assessment Calculation Results, raw SQL optimization.
+</details>
+   
+---------------------------------------
+
+### July 2021 - March 2022
+__Full-stack Developer | Altermeliora__ <br>
+🔗 https://altermeliora.com/ <br>
+⚡ _Skills: Node(NestJS), React.js, Python(Django),  Google Cloud Platform, PostgreSql, Redis, Docker_ <br>
+<details><summary>🛠 Description</summary>
+
+- __Participated in development of:__ a payment platform for selling courses and products.
+- __Added:__ products' form; logic of discounts and promo codes; generation of sales reports; settings for payment systems; tax calculation for sellers; delivery of goods using Shiptor and ChinaDivision API; payment systems Bluesnap, Fondy, Paypal, YooMoney; Email Delivery Service SendGrid; form that creates hierarchy of categories; auto-registration of users on Club after a successful payment; enablement to create different auto-registration scripts; calories' calculation; data synchronization between platforms; CRM and Club multilingual interface.
 </details>
    
 ---------------------------------------
@@ -95,18 +107,6 @@ roles and teams; game chat.
 
 </details>
 
----------------------------------------
-
-### July 2021 - March 2022
-__Full-stack Developer | Altermeliora__ <br>
-🔗 https://altermeliora.com/ <br>
-⚡ _Skills: Node(NestJS), React.js, Python(Django),  Google Cloud Platform, PostgreSql, Redis, Docker_ <br>
-<details><summary>🛠 Description</summary>
-
-- __Participated in development of:__ a payment platform for selling courses and products.
-- __Added:__ products' form; logic of discounts and promo codes; generation of sales reports; settings for payment systems; tax calculation for sellers; delivery of goods using Shiptor and ChinaDivision API; payment systems Bluesnap, Fondy, Paypal, YooMoney; Email Delivery Service SendGrid; form that creates hierarchy of categories; auto-registration of users on Club after a successful payment; enablement to create different auto-registration scripts; calories' calculation; data synchronization between platforms; CRM and Club multilingual interface.
-</details>
-   
 ---------------------------------------
 
 ### August 2018 - October 2020
