@@ -1,6 +1,6 @@
 ## Hi there 👋
 ☺️ My name is Andrew and I'm a Software Engineer. I have more than 8 years of experience in Full Stack Web Development. <br>
-🤩 As Front-end Web Developer I prefer to use TypeScript(Vue, React), HTML, CSS(Less, Bootstrap/Material). <br>
+🤩 As Front-end Web Developer I prefer to use TypeScript(Vue, React), HTML, CSS(Less, Bootstrap/Material, Tailwind). <br>
 🧑‍💻 As Back-end Web Developer I prefer to use NodeJS(Nestjs), Python(FastApi, Django/DRF, Flask), ORM(SQLAlchemy, Prisma, TypeOrm, Sequelize), SQL(PostgreSQL, MongoDB), Nginx, Docker, MQTT(Redis, RabbitMQ, Kafka). <br>
 🤓 I like to grow my professional skills and learn something new. <br>
 <details><summary>🎓 I'm a Master of Computer Science</summary>
