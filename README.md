@@ -55,13 +55,13 @@ __Tech Lead, ML Engineer, Full-stack Developer | “EURO ATLANTIC SMART TECHNOLO
 ---------------------------------------
 
 ### June 2020 - to date
-__Full-stack Developer | PonyLand__ <br>
-🔗 https://pony.land <br>
+__Full-stack Developer | ManeTalk__ <br>
+🔗 https://manetalk.com/en <br>
 ⚡ _Skills: NestJS, Vue.js, Nuxt, Electron, RabbitMQ, Kafka, Docker, C#(ASP.NET 6), PostgreSql, Minio._ <br>
 <details><summary>🛠 Description</summary>
 
-- __Participated in development of:__ the MMORPG game [Pony.Land](https://pony.land).
-- __Developed:__ website Pony.Land; SSO authentication; algorithms to protect against DDOS attacks and bots; classification of junk messages using the Gibberish Classification algorithm; flood and spam protection algorithms that identify similar messages from different users using the Longest Common Subsequence; Toxic Comment Classification; Telegram Bot for admins; Game Launcher with Anti-Cheat system; API to store custom character textures and inventories; chat API.
+- __Participated in development of:__ the MMORPG game [ManeTalk](https://manetalk.com/en).
+- __Developed:__ website https://manetalk.com/en; SSO authentication; algorithms to protect against DDOS attacks and bots; classification of junk messages using the Gibberish Classification algorithm; flood and spam protection algorithms that identify similar messages from different users using the Longest Common Subsequence; Toxic Comment Classification; Telegram Bot for admins; Game Launcher with Anti-Cheat system; API to store custom character textures and inventories; chat API.
 </details>
    
 ---------------------------------------
